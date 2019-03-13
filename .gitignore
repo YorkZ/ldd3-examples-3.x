@@ -1,0 +1,62 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Backups
+*~*
+\#*
+*.bak
+
+# Project specifics
+*.o.cmd
+*.o.d
+*.ko
+*.ko.*
+*.mod.c
+*.order
+
+gmon.out
+Module.symvers
+.tmp_versions/
+
+misc-progs/dataalign
+misc-progs/datasize
+misc-progs/inp
+misc-progs/load50
+misc-progs/mapcmp
+misc-progs/mapper
+misc-progs/nbtest
+misc-progs/netifdebug
+misc-progs/outp
+misc-progs/polltest
+misc-progs/setconsole
+misc-progs/setlevel
